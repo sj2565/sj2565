@@ -3,8 +3,8 @@
 - 🌱 학부생 때의 과제 및 졸업작품 소스코드 모음
 - 💞️ 진행했던 프로젝트 소스코드 모음
 - 📫 그 외에도 개발 관련 기록
-- 😄 How to reach me ...
-- ⚡ [웹 포트폴리오](https://sj2565.github.io)   
+- 🔥 열정, 끈기, 집요
+- 🖥️ [웹 포트폴리오](https://sj2565.github.io)   
   
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/> <br>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/> &nbsp; 
