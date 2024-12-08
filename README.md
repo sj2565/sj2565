@@ -2,7 +2,7 @@
 - 📖 정보통신융합공학부
 - 🌱 학부생 때의 과제 및 졸업작품 소스코드 모음
 - 💞️ 진행했던 프로젝트 소스코드 모음
-- 📫 그 외에도 개발 관련 기록
+- 📫 HardWare & SoftWare 개발 관련 기록
 - 🖥️ [웹 포트폴리오](https://sj2565.github.io)   
 #### 🛠️ 써봤던 기술스택
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/c-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black" /><br>
