@@ -1,9 +1,10 @@
 - 👋 @sj2565
-- 👀 학부생때의 과제 및 프로젝트 모음
-- 🌱 기술 공부 정리
-- 💞️ 그 외에도 개발 관련 기록
-- 📫 How to reach me ...
-- 😄 [웹 포트폴리오](https://sj2565.github.io)
+- 👀 정보통신융합공학부
+- 🌱 학부생때의 과제 및 프로젝트 모음
+- 💞️ 기술 공부 정리
+- 📫 그 외에도 개발 관련 기록
+- 😄 How to reach me ...
+- ⚡ [웹 포트폴리오](https://sj2565.github.io)
 - ⚡ Fun fact: ...
 
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/> <br>
