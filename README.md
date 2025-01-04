@@ -16,3 +16,4 @@
 <img src="https://img.shields.io/badge/eclipse%20ide-525C86?style=flat-square&logo=eclipse%20ide&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=green"> &nbsp; <img src="https://img.shields.io/badge/github-%23181717.svg?&style=flat-square&logo=github&logoColor=white" /> <br>
 <img src="https://img.shields.io/badge/arduino-%2300979D.svg?&style=flat-square&logo=arduino&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/raspberry%20pi-%23C51A4A.svg?&style=flat-square&logo=raspberry%20pi&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sj2565&layout=Demo&theme=onedark)
