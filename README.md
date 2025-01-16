@@ -4,7 +4,7 @@
 - 💞️ 진행했던 프로젝트 소스코드 모음
 - 📫 HardWare & SoftWare 개발 관련 기록
 - 🖥️ [웹 포트폴리오](https://sj2565.github.io)   
-#### 🛠️ 써봤던 기술스택
+#### 🛠️ 사용해본 기술스택
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/c-%23A8B9CC.svg?&style=flat-square&logo=c&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/c++-00599C.svg?style=flat-square&logo=C%2B%2B&logoColor=white" /> <br>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black"/> &nbsp;
 <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?&style=flat-square&logo=vue.js&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=white" /> &nbsp; <br>
