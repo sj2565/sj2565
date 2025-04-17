@@ -3,7 +3,7 @@
 - 🌱 과제 및 졸업작품 소스코드 모음
 - 💞️ 진행했던 프로젝트 소스코드 모음
 - 📫 HardWare & SoftWare 개발 관련 코드 기록
-- 🖥️ 다양한 코드 작성 및 공부용
+- 🖥️ 다양한 코드 작성 및 학습용
 <!--- 🖥️ [웹 포트폴리오](https://sj2565.github.io) -->
 #### 🛠️ 사용해본 기술스택
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=OpenJDK&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/c-%23A8B9CC.svg?&style=flat-square&logo=c&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/c++-00599C.svg?style=flat-square&logo=C%2B%2B&logoColor=white" /> <br>
