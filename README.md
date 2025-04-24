@@ -1,7 +1,7 @@
 - 👋 @sj2565
 - 📖 정보통신융합공학부
 - 🌱 Embedded, Firmware
-- 💞️ Machine Learning
+- 💞️ AI/ML
 - 📫 과제 및 프로젝트 소스코드 모음
 - 🖥️ 다양한 코드 작성 및 학습용
 <!--- 🖥️ [웹 포트폴리오](https://sj2565.github.io) -->
